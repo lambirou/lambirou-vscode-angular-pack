@@ -1,0 +1,83 @@
+{
+  "name": "lambirou-vscode-angular-pack",
+  "displayName": "Angular Workspace Extension Pack",
+  "description": "Visual Studio Code extension pack for Angular Workspace.",
+  "version": "1.0.0",
+  "publisher": "lambirou",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lambirou/lambirou-vscode-angular-pack"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0F3D5F",
+    "theme": "light"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "angular"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "adpyke.codesnap",
+    "Angular.ng-template",
+    "bierner.color-info",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "dannymcgee.ng-html",
+    "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "DotJoshJohnson.xml",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "EditorConfig.EditorConfig",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "felipecaputo.git-project-manager",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.code-runner",
+    "GitHub.copilot",
+    "GraphQL.vscode-graphql",
+    "Gruntfuggly.todo-tree",
+    "HookyQR.beautify",
+    "IBM.output-colorizer",
+    "jgclark.vscode-todo-highlight",
+    "johnpapa.Angular2",
+    "johnpapa.pwa-tools",
+    "jsayol.firebase-explorer",
+    "mhutchie.git-graph",
+    "mikestead.dotenv",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "msjsdiag.cordova-tools",
+    "mtxr.sqltools",
+    "mtxr.sqltools-driver-mysql",
+    "naumovs.color-highlight",
+    "nrwl.angular-console",
+    "oderwat.indent-rainbow",
+    "PKief.material-icon-theme",
+    "pranaygp.vscode-css-peek",
+    "rangav.vscode-thunder-client",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "silvenon.mdx",
+    "SirTori.indenticator",
+    "SonarSource.sonarlint-vscode",
+    "toba.vsfire",
+    "vincaslt.highlight-matching-tag",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "WakaTime.vscode-wakatime",
+    "wmaurer.change-case",
+    "Wscats.eno",
+    "yzhang.markdown-all-in-one",
+    "zhuangtongfa.material-theme",
+    "Zignd.html-css-class-completion"
+  ]
+}
